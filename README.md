@@ -1,5 +1,5 @@
 # MaskExtractorUnity
-MaskExtractorUnity is utility to extract some portion of the image by the color in Unity.
+MaskExtractorUnity is an utility to extract some portion of an image by the color in Unity.
 # How to Use
 In the picture below, you can see how you can specify diferrent colors to select some portion of an image (you may think of it as the magic wand in Photoshop). After you select all parts you're interested in, you may save it on a disk.
 ![Demo](https://monosnap.com/image/kcom8W3w6c4HREAA6r349oM7ufo4Gl)
