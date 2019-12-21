@@ -7,7 +7,7 @@ namespace m039.MaskExtractor
 
     public static class Consts
     {
-        public const string ContextMenuRoot = "ReplaceColor";
+        public const string ContextMenuRoot = "Mask Extractor";
     }
 
 }
