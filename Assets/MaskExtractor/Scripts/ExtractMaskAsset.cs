@@ -11,7 +11,7 @@ using UnityEditor;
 
 namespace m039.MaskExtractor
 {
-    [CreateAssetMenu(fileName = "CreateMaskAsset", menuName = Consts.ContextMenuRoot + "/CreateMaskAsset", order = 1)]
+    [CreateAssetMenu(fileName = "MaskExtractor", menuName = Consts.ContextMenuRoot + "/CreateMaskExtractor", order = 1)]
     public class ExtractMaskAsset : ScriptableObject
     {
         [System.Serializable]
